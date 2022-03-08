@@ -23,7 +23,7 @@
 ## 💾 Clone
 
 ```sh
-git clone https://github.com/setxpro/Moveit-NextJs.git
+https://github.com/setxpro/E-diaristas-NextJs.git
 ```
 
 ## 🗳 Install
