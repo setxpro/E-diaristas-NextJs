@@ -20,6 +20,12 @@
 - ReactJs
 - NextJs
 
+## 💾 Clone
+
+```sh
+git clone https://github.com/setxpro/Moveit-NextJs.git
+```
+
 ## 🗳 Install
 
 ```sh
