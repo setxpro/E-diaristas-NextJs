@@ -8,6 +8,7 @@
 
 <p>
   E-diaristas te ajuda a encontrar um profissional perfeito para realizar a limpeza da sua casa.
+   <a href="https://ediaristas-tau.vercel.app/">Acess Deploy</a>
 </p>
 
 <div>
